@@ -16,7 +16,9 @@
 
   <br/>
   
->*Blockchain advisory: defi, security, identity, active monitoring, incident response, and analytics*
+<h4>Blockchain advisory: </h4>
+
+<p>defi | security | identity | active monitoring | automation | incident response | analytics</p>
   <br/>
 
   <a href="https://chaintail.xyz">
