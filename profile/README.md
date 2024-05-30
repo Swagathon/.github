@@ -1,12 +1,12 @@
 <div align="center">
 
   <a href="https://chaintail.xyz">
-    <img src="https://raw.githubusercontent.com/chaintail-xyz/.github/master/chaintail_text_logo.svg" height="120px" alt="chaintail logo"/>
+    <img src="https://github.com/Swagathon/.github/blob/master/Swagathon%20white.png"/>
   </a>
   
-<h4>Blockchain advisory: </h4>
+<h4>Swag reviews! </h4>
 
-<p>defi | security | identity | active monitoring | automation | incident response | analytics</p>
+<p>Welcome to Swagathon! Dive into the world of tech event freebies and discover the coolest swag around.</p>
 
 
   <br/>
