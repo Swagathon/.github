@@ -21,7 +21,7 @@
 
 
   <a href="https://chaintail.xyz">
-    <img src="https://github.com/Swagathon/.github/blob/master/logo.png" width="64px" alt="chaintail logo"/>
+    <img src="https://github.com/Swagathon/.github/blob/master/logo2.png" width="64px" alt="Swagathon"/>
   </a>
 
 </div>
