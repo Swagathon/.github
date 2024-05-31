@@ -19,6 +19,10 @@
 [![Static Badge](https://img.shields.io/badge/%40Swagathon-%40Swagathon?style=for-the-badge&logo=X&logoColor=%23ffffff&label=Follow&color=%231c9ff0)](https://x.com/Swagathon2024)
   
 
+Congratulations! 🙌🏼 You've deployed a new NFT Project 'Swagathon' on Rootstock:<br>
+⛓ Contract Address: 0x1D42DedDEaAA700d8B4dCdE760E210Ac8FD9331e
+
+
 
   <a href="https://chaintail.xyz">
     <img src="https://github.com/Swagathon/.github/blob/master/logo2.png" width="64px" alt="Swagathon"/>
