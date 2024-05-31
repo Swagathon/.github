@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://chaintail.xyz">
-    <img src="https://github.com/Swagathon/.github/blob/master/Swagathon%20white.png"/>
+    <img src="https://github.com/Swagathon/swagathon-ui/blob/main/frontend/public/img/swagathon-logo-full-color.svg"/>
   </a>
 
 
