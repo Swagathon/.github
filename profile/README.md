@@ -13,7 +13,7 @@ https://swagathon.nfts2.me/
 <br><br>****
 CID for IPFS Database: QmacDJcwhvzWgWSveCZznfAoWUAKjV2iYKWvGjSxMFyJHA 
 This was used to upload the data to crust and fetch from crust using the crust api.
-
+Helia verified fetch library used to pull data from the server.
 <br>
 
 <br>
