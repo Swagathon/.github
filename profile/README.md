@@ -5,7 +5,7 @@
   </a>
 
 <br>
-We build the swagathon index with timestamps on Polkadot and we have product specs and roadmap that includes Stellar for LP,  Stacks for NFTs, and Rootstock for bitcoin integration. 
+We built the swagathon index with timestamps on Polkadot and we have product specs and roadmap that includes Stellar for LP,  Stacks and Rootstock for bitcoin NFT integration for swagathon rewards. 
 <br><br>
 NFT Project 'Swagathon' on Rootstock: ⛓ Contract Address: 0x1D42DedDEaAA700d8B4dCdE760E210Ac8FD9331e
 <br><br>
