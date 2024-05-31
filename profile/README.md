@@ -14,9 +14,7 @@ https://swagathon.nfts2.me/
 CID for IPFS Database: QmacDJcwhvzWgWSveCZznfAoWUAKjV2iYKWvGjSxMFyJHA 
 This was used to upload the data to crust and fetch from crust using the crust api.
 
-<br><br>
-Congratulations! 🙌🏼 You've deployed a new NFT Project 'Swagathon' on Rootstock:
-⛓ Contract Address: 0x1D42DedDEaAA700d8B4dCdE760E210Ac8FD9331e
+<br>
 
 <br>
 
